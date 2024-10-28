@@ -1,22 +1,12 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SoaresPedronhoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoaresPedronhoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">About Me</p>
 
 ###
 
-<p align="center">React Developer</p>
+<p align="left">- React Deeveloper<br>- React And Next</p>
 
 ###
 
-<img src="https://raw.githubusercontent.com/SoaresPedronhoDev/SoaresPedronhoDev/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  ><a href="https://www.linkedin.com/in/pedro-henrique-domingues-109178326/"></a></img>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" > ><a href="https://www.instagram.com/1907soares/?next=%2F/"></a></img>
-</div>
+<p align="left">Techs</p>
 
 ###
 
@@ -48,6 +38,36 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
+</div>
+
+###
+
+<p align="left">Stats</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SoaresPedronhoDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoaresPedronhoDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/SoaresPedronhoDev/SoaresPedronhoDev/output/snake.svg" alt="Snake animation" />
+
+###
+
+<p align="left">Social Media</p>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/pedro-henrique-domingues-109178326/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/1907soares/?next=%2F" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
